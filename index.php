@@ -39,7 +39,7 @@ in html
         <br /><br />
         <main>
             <figure id = "me">
-                <img src = "/PersoinalPortfolio/img/juan_doe.png" alt = "Picture of John Doe"/>
+                <img src = "/PersoinalPortfolio/csts336_sp18_lab1/img/juan_doe.png" alt = "Picture of John Doe"/>
                 
             </figure>
             <div id = "welcomeText">
