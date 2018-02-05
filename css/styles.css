@@ -4,6 +4,11 @@ body{
 }
 header, main, nav,footer{
     text-align: center;
+
+}
+
+header{
+    color:pink;
 }
 nav a { /* links within "nav" contauner */
     padding: 15px;
@@ -14,7 +19,7 @@ nav a { /* links within "nav" contauner */
     
 }
 nav a:hover{ /*pseudo class */
-    border-bottom: 2px orange solid;
+    border-bottom: 2px pink solid;
     font-size: 2em;
     transition: .9s; /*transition effect */
     
@@ -54,4 +59,11 @@ h1{
     font-family: 'Pacifico', cursive;
     font-size: 4em;
     margin-bottom:0px;
+}
+img{
+    float:right;
+}
+#content{
+    alignment-baseline: left;
+    
 }

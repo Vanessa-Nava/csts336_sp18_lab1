@@ -26,7 +26,7 @@ in html
     <body>
         
         <header>
-            <h1>John Doe</h1>
+            <h1>Vanessa Nava</h1>
         </header>
         <nav>
             <hr width = "50%" />
@@ -39,18 +39,23 @@ in html
         <br /><br />
         <main>
             <figure id = "me">
-                <img src = "/PersoinalPortfolio/csts336_sp18_lab1/img/juan_doe.png" alt = "Picture of John Doe"/>
+                <img height = "500" width = "400" src = "/PersoinalPortfolio/csts336_sp18_lab1/img/MVIMG_20180130_155209.jpg" alt = "Picture of Vanessa Nava"/>
                 
             </figure>
             <div id = "welcomeText">
-            Hello! <br />
-            <p> I am a Software Engineer and have been recently hired at the Acme Corporation!.</p>
+            Hello! 
+            <p> Thank you for visiting</p>
+            <p> my professional porfolio website</p>
+            <p>I am a student in the CSin3 Program, a 3 - year program that leads to the BS in Computer Science</p>
+            <p>My emphasis is in software development and I am currently looking for an intership</p>
             <p>Feel free to contactb me!</p>
             <p>Thank you for visiting my ePorfolio</p>
             <br /><br />
             
-            <em>"Withn ordinary talent and extraordinary <strong>perseverance</strong>, all things are attainable"</em><br />
-            - ThomasF. Buxton
+            <em>"Do the one thing you think you cannot do.</em>
+            <em> Fail at it. Try again. Do better the second"</em><br/>
+            
+            -Oprah Winfrey
             
             </div>
         </main>
@@ -60,10 +65,11 @@ in html
         
         <footer>
             <hr>
-            Course name. 2017&copy; Your Last Name <br />
+            CST 336 Internet Programming. 2017 &copy; Nava <br />
             <strong>Disclamer:</strong> The infornmation on this page is fictitous. <br />
             It is used for academic purpose only.
             
+            <img src = "/PersoinalPortfolio/csts336_sp18_lab1/img/csumb_logo.jpg"> 
             
             
         </footer>
